@@ -25,7 +25,7 @@ LATENCY = .1
 VISUALS = True
 CLS = True
 
-botName = 'Bot961333'
+botName = 'JoJo_Bot'
 module = importlib.import_module(botName)
 cls = getattr(module, botName)
 
